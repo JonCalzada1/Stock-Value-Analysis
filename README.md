@@ -19,7 +19,7 @@ The goal of this project is to:
 |------|-------------|
 | `Stock_SQL_Analysis.sql` | SQL script for calculating daily differences and daily return % |
 | `Stocks_time_series_forecast.ipynb` | Jupyter Notebook for ARIMA modeling and 30-day forecast |
-|[View Tableau Dashboard]([https://public.tableau.com/views/Book1_17455009990720/StockValueAnalysisBAandJPM?:language=en-US&:publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StockValueAnalysisBAvsJPM/StockValueAnalysisBAandJPM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | Interactive dashboard on Tableau Public |
+|[View Tableau Dashboard]((https://public.tableau.com/views/StockValueAnalysisBAvsJPM/StockValueAnalysisBAandJPM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | Interactive dashboard on Tableau Public |
 
 
 
@@ -57,7 +57,7 @@ The goal of this project is to:
   - ARIMA forecast line
   - Sector and price breakdowns
 - Designed a clean, modern layout  
-*→ [Live Dashboard]([[https://public.tableau.com/views/Book1_17455009990720/StockValueAnalysisBAandJPM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StockValueAnalysisBAvsJPM/StockValueAnalysisBAandJPM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/StockValueAnalysisBAvsJPM/StockValueAnalysisBAandJPM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))*
+*→ [Live Dashboard]((https://public.tableau.com/views/StockValueAnalysisBAvsJPM/StockValueAnalysisBAandJPM?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))*
 
 
 
